@@ -1,8 +1,8 @@
 ---
 layout: content
-title:  "Rick Astley!"
+title:  "Crear entorno de desarrollo Wordpress - Mysql en Docker!"
 date:   2017-01-09 21:29:14 -0600
-categories: init
+categories: docker
 ---
 
-<iframe width="100%" height="600px" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<p>En este post veremos la manera de implementar un desarrollo de trabajo para wordpress usando docker container</p>
