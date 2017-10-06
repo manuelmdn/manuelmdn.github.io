@@ -40,6 +40,9 @@ p {
 
 .main{
     background: #FFF;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, .2);
+    max-width: 1200px;
+    margin:0px auto;
 }
 
 a {
